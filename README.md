@@ -41,6 +41,3 @@ This project implements an unsupervised NLP pipeline that builds a unified "bag 
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
